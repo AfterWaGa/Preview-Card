@@ -2,20 +2,14 @@
 
 This is a solution to the [Blog preview card challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/blog-preview-card-ckPaj01IcS). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-### The challenge
-
-Users should be able to:
-
--   See hover and focus states for all interactive elements on the page
-
 ### Screenshot
 
-![](./screenshot.jpg)
+![](assets/images/screenshot.jpg)
 
 ### Links
 
--   Solution URL: [Add solution URL here]
--   Live Site URL: [Add live site URL here]
+-   Solution URL: [https://github.com/AfterWaGa/Preview-Card]
+-   Live Site URL: [https://afterwaga.github.io/Preview-Card/]
 
 ## Author
 
